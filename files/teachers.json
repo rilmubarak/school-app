@@ -1,0 +1,26 @@
+[
+    {
+      "first_name": "Jefri",
+      "last_name": "Hanuri",
+      "email": "jefhauri@sekolah.id",
+      "gender": "male"
+    },
+    {
+      "first_name": "Haikal",
+      "last_name": "Rahmat",
+      "email": "rahmathaikal@sekolah.id",
+      "gender": "male"
+    },
+    {
+      "first_name": "Siti",
+      "last_name": "Jamila",
+      "email": "sitijamila@sekolah.id",
+      "gender": "female"
+    },
+    {
+      "first_name": "Danang",
+      "last_name": "Pamungkas",
+      "email": "nangpamungkas@sekolah.id",
+      "gender": "male"
+    }
+  ]

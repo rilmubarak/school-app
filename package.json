@@ -1,27 +1,27 @@
 {
-  "name": "school-app",
+  "name": "school-application-sequelize",
   "version": "1.0.0",
-  "description": "simple school app with express",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rilmubarak/school-app.git"
+    "url": "git+https://github.com/rapid-fox-2020/school-application-sequelize.git"
   },
   "keywords": [],
   "author": "Baril",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rilmubarak/school-app/issues"
+    "url": "https://github.com/rapid-fox-2020/school-application-sequelize/issues"
   },
-  "homepage": "https://github.com/rilmubarak/school-app#readme",
+  "homepage": "https://github.com/rapid-fox-2020/school-application-sequelize#readme",
   "dependencies": {
     "ejs": "^3.1.3",
     "express": "^4.17.1",
     "nodemon": "^2.0.4",
     "pg": "^8.2.1",
-    "sequelize": "^6.2.4"
+    "sequelize": "^6.2.0"
   }
 }

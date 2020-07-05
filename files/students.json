@@ -1,0 +1,34 @@
+[
+  {
+    "first_name": "Helmi",
+    "last_name": "Garing",
+    "email": "helring@sekolah.id",
+    "gender": "male",
+    "birth_date": "1989-01-01"
+
+  },
+  {
+    "first_name": "Yahya",
+    "last_name": "Ahmad",
+    "email": "yahya@sekolah.id",
+    "gender": "male",
+    "birth_date": "1962-09-11"
+
+  },
+  {
+    "first_name": "Dini",
+    "last_name": "Nugraha",
+    "email": "dininugraha@sekolah.id",
+    "gender": "female",
+    "birth_date": "1996-01-07"
+
+  },
+  {
+    "first_name": "Khairil",
+    "last_name": "Mubarak",
+    "email": "khair@mubarak.com",
+    "gender": "male",
+    "birth_date": "1995-07-07"
+
+  }
+]
